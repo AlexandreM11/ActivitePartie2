@@ -1,0 +1,3 @@
+BD : SQLite + Room + Firebase
+Versions Android : à partir de 21 jusqu'à la plus récente
+Utiliser Android Studio
